@@ -158,7 +158,7 @@
 
 /*Página Inicial*/
 .hero {
-  background-image: url('imagens/logo.jpg');
+  background-image: url('logo.jpg');
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
