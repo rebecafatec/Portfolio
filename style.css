@@ -350,7 +350,7 @@
   flex-direction: column;
   justify-content: center;
   color: #e3cee4;
-  background-image: url('imagens/textura.jpg');
+  background-image: url('textura.jpg');
   background-size: repeat-x;
   transition: 0.3s ease-in;
 }
